@@ -46,7 +46,7 @@
 ![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
 ![FLUTTER](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 
-
+![snake gif](https://github.com/JefersonOMOreira/JefersonOMoreira/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
@@ -56,4 +56,4 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=444DFE&height=120&section=footer"/>
 
-![snake gif](https://github.com/JefersonOMOreira/JefersonOMOreira/blob/output/github-contribution-grid-snake.svg)
+
